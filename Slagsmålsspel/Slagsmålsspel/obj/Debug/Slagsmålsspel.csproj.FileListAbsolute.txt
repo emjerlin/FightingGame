@@ -1,0 +1,12 @@
+c:\users\emma.jerlin\documents\visual studio 2017\Projects\Slagsmålsspel\Slagsmålsspel\obj\Debug\Slagsmålsspel.csprojResolveAssemblyReference.cache
+c:\users\emma.jerlin\documents\visual studio 2017\Projects\Slagsmålsspel\Slagsmålsspel\bin\Debug\Slagsmålsspel.exe.config
+c:\users\emma.jerlin\documents\visual studio 2017\Projects\Slagsmålsspel\Slagsmålsspel\bin\Debug\Slagsmålsspel.exe
+c:\users\emma.jerlin\documents\visual studio 2017\Projects\Slagsmålsspel\Slagsmålsspel\bin\Debug\Slagsmålsspel.pdb
+c:\users\emma.jerlin\documents\visual studio 2017\Projects\Slagsmålsspel\Slagsmålsspel\obj\Debug\Slagsmålsspel.exe
+c:\users\emma.jerlin\documents\visual studio 2017\Projects\Slagsmålsspel\Slagsmålsspel\obj\Debug\Slagsmålsspel.pdb
+C:\Users\emma.jerlin\Documents\GitHub\FightingGame\Slagsmålsspel\Slagsmålsspel\bin\Debug\Slagsmålsspel.exe.config
+C:\Users\emma.jerlin\Documents\GitHub\FightingGame\Slagsmålsspel\Slagsmålsspel\bin\Debug\Slagsmålsspel.exe
+C:\Users\emma.jerlin\Documents\GitHub\FightingGame\Slagsmålsspel\Slagsmålsspel\bin\Debug\Slagsmålsspel.pdb
+C:\Users\emma.jerlin\Documents\GitHub\FightingGame\Slagsmålsspel\Slagsmålsspel\obj\Debug\Slagsmålsspel.csprojAssemblyReference.cache
+C:\Users\emma.jerlin\Documents\GitHub\FightingGame\Slagsmålsspel\Slagsmålsspel\obj\Debug\Slagsmålsspel.exe
+C:\Users\emma.jerlin\Documents\GitHub\FightingGame\Slagsmålsspel\Slagsmålsspel\obj\Debug\Slagsmålsspel.pdb
