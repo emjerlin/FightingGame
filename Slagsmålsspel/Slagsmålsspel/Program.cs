@@ -210,7 +210,6 @@ namespace Slagsmålsspel
                 //match is over
 
 
-
                 Console.WriteLine("Would you like to play again? y/n");
 
                 string playagain = Console.ReadLine();
